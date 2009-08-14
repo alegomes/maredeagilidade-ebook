@@ -1,0 +1,54 @@
+[chapter O pensamento ágil e suas origens]
+[section O Modelo Toyota de Produção]
+[section A filosofia Lean]
+[section O Manifesto Ágil]
+
+[chapter Como a TI entende a filosofia ágil]
+[chapter eXtreme Programming (XP)]
+[chapter Scrum]
+[chapter Feature Driven Development (FDD)]
+[chapter OpenUP]
+[chapter Crystal]
+[chapter Domain Driven Development (DDD)]
+
+[chapter A indústria Ágil]
+[section Mitologia Ágil]
+[section Empresas Ágeis]
+[section Agilidade no Governo]
+[section O Ecossistema Ágil]
+ **Texto em negrito**
+[section Exemlo de seção]
+ ::Texto em itálico::
+[box Exemplo de box]
+ __Texto sublinhado__
+[/box]
+[title Exemplo de title]
+ %% Inline code (hein?!) %%
+[quote Exemplo de Quote --Alexandre Gomes]
+[label Exemplo de label]
+ blablablablabla
+[/label]
+[exercise]
+ [question] Exemplo de questão sem resposta [/question]
+ [question] Exemplo de questão com resposta 
+	[answer] Exemplo de resposta [/answer]
+ [/question]
+[/exercise]
+[index Exemplo de âncora]
+[todo Tudo ainda está para ser feito!!!]
+[list]
+ * item bolinha
+ * item bolinha
+[/list]
+[list number]
+ * item 1
+ * item 2
+[/list]
+[list roman]
+ * item I
+ * item II
+[/list]
+[list letter]
+ * item a
+ * item b
+[/list]
